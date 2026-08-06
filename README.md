@@ -1,103 +1,101 @@
 <div align="center">
 
-# 👾 INDRA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f3f&height=220&section=header&text=INDRA&fontSize=90&fontColor=00E5FF&animation=fadeIn&fontAlignY=35"/>
 
-### 🛡️ Bug Hunter • Security Researcher • Python Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Bug+Bounty+Hunter;Security+Automation;Python+Developer;Offensive+Security;Web+Application+Security;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Bug+Hunter;Security+Researcher;Application+Security;Security+Automation;Python+Developer;Breaking+%26+Building" />
 
 </div>
 
----
 
-# 💀 About Me
+<br>
+
 
 ```bash
-> whoami
+┌──(indra㉿linux)-[~]
+└─$ whoami
 
-Name       : Arshia
-Alias      : INDRA
-Role       : Bug Hunter
-Focus      : Application Security
-OS         : Linux
-Language   : Python
+INDRA
+
+> Bug Hunter
+> Security Researcher
+> Python Developer
+> Offensive Security Enthusiast
 ```
 
-I enjoy discovering vulnerabilities, building security automation tools and researching modern web technologies.
 
-My interests include:
+## 🩸 About Me
 
-- Web Application Security
-- Bug Bounty
-- Offensive Security
-- API Security
-- Reconnaissance
-- Security Automation
+I explore vulnerabilities, analyze applications and build automation tools for security research.
+
+Focused on:
+
+```
+[+] Web Application Security
+[+] Bug Bounty Hunting
+[+] API Security
+[+] Recon Automation
+[+] Vulnerability Research
+[+] Open Source Security
+```
+
+
+## ⚔️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cs,linux,docker,git,vscode,bash,mysql"/>
+
+</div>
+
+
+## 🛡️ Security Knowledge
+
+```
+OWASP Top 10
+Web Exploitation
+Authentication & Authorization
+HTTP / API Security
+Networking
+Linux Internals
+Cloud Fundamentals
+Security Automation
+```
+
+
+## 🧬 Current Mission
+
+```yaml
+learning:
+  - Advanced Web Exploitation
+  - API Security
+  - Cloud Security
+
+building:
+  - Security Automation Tools
+  - Recon Frameworks
+  - Open Source Projects
+
+goal:
+  - Find Bugs
+  - Build Tools
+  - Improve Security
+```
+
+
+## 📡 System Status
+
+```
+[ ONLINE ]
+
+Target     : Security Research
+Environment: Linux
+Primary    : Python
+Mindset    : Always Learning
+```
 
 ---
 
-# ⚔️ Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,cs,docker,git,linux,vscode"/>
-
-</p>
-
----
-
-# 🛡️ Security Skills
-
-- OWASP Top 10
-- Web Security
-- API Security
-- Authentication
-- Authorization
-- Reconnaissance
-- Bug Bounty
-- HTTP Protocol
-- Linux
-- Networking
-- SQL
-- Automation
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Vecna | Automated Subdomain Takeover Detection |
-| WatchTower | Continuous Recon Framework |
-| Byakugan | CDN & IP Intelligence |
-| Rinnegan | Bug Bounty Program Watcher |
-| Kusanagi | Asset Discovery Framework |
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=indra-031&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=indra-031&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indra-031&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
 
@@ -105,22 +103,29 @@ My interests include:
 
 </p>
 
----
-
-# 🌎 Connect
-
-GitHub
-
-X (Twitter)
-
-LinkedIn
-
-Discord
 
 ---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/indra-031">
+<img src="https://img.shields.io/badge/GitHub-INDRA-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 
 <div align="center">
 
-### ⚡ Happy Hacking ⚡
+```
+01001000 01100001 01100011 01101011
+
+Hack • Automate • Secure
+```
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,100:000000&height=120&section=footer"/>
