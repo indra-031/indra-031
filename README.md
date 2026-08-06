@@ -12,24 +12,10 @@
 <br>
 
 
-<div align="center">
-
-```
-██╗███╗   ██╗██████╗ ██████╗  █████╗ 
-██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗
-██║██╔██╗ ██║██║  ██║██████╔╝███████║
-██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║
-██║██║ ╚████║██████╔╝██║  ██║██║  ██║
-╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-</div>
-
-
 # 🩸 `whoami`
 
 ```bash
-root@indra:~$ ./identity.sh
+root@indra:~$ whoami
 
 [+] Name     : Arshia
 [+] Alias    : INDRA
@@ -46,7 +32,7 @@ root@indra:~$ ./identity.sh
 
 I explore vulnerabilities, analyze applications and build automation for security research.
 
-My mission is to discover security flaws, understand attack surfaces and improve the security of modern applications.
+Focused on discovering security flaws, understanding attack surfaces and improving modern application security.
 
 
 ```text
@@ -61,6 +47,8 @@ My mission is to discover security flaws, understand attack surfaces and improve
 ⚔ Recon Automation
 
 ⚔ Open Source Security
+
+⚔ Mobile Application Security
 ```
 
 
@@ -71,10 +59,12 @@ My mission is to discover security flaws, understand attack surfaces and improve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cs,sql,docker,git,linux,bash,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,sql,bash,linux,docker,git,vscode,unity&theme=dark"/>
 
 </div>
 
+
+## 💻 Development
 
 ```yaml
 Languages:
@@ -82,42 +72,85 @@ Languages:
   - JavaScript
   - C#
   - SQL
+  - HTML
+  - CSS
   - Bash
 
-Environment:
-  - Linux
-  - Docker
-  - Git
-  - VS Code
+Development:
+  - REST APIs
+  - Automation Scripts
+  - Web Development
+  - Unity Development
+  - Git Workflow
+```
 
-Security:
+
+---
+
+## 🛡️ Security Research
+
+```yaml
+Web Security:
   - OWASP Top 10
-  - Web Security
+  - Authentication Testing
+  - Authorization Testing
+  - Business Logic Testing
   - API Security
-  - Authentication
-  - Authorization
-  - Networking
+  - HTTP Analysis
+
+Recon:
+  - Subdomain Enumeration
+  - Attack Surface Discovery
+  - Asset Intelligence
+  - OSINT
+
+Pentesting:
+  - Web Pentesting
+  - Mobile Security
+  - Vulnerability Assessment
   - Security Automation
 ```
 
 
 ---
 
-# 🛡️ Security Profile
+## ⚔️ Security Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,python&theme=dark"/>
+
+</div>
 
 
-```
-[██████████] Web Application Security
+```text
+🔹 Burp Suite
 
-[█████████░] API Security
+🔹 Nmap
 
-[█████████░] Bug Hunting
+🔹 Nuclei
 
-[████████░░] Recon Automation
+🔹 Subfinder
 
-[███████░░░] Vulnerability Research
+🔹 Amass
 
-[███████░░░] Cloud Security
+🔹 Httpx
+
+🔹 FFUF
+
+🔹 Katana
+
+🔹 Assetfinder
+
+🔹 Waybackurls
+
+🔹 GAU
+
+🔹 Frida
+
+🔹 JADX
+
+🔹 APKTool
 ```
 
 
@@ -130,11 +163,12 @@ Security:
 mission:
   - Find Vulnerabilities
   - Build Security Tools
-  - Learn New Techniques
+  - Automate Security Workflows
 
 focus:
   - Web Exploitation
   - API Security
+  - Mobile Security
   - Offensive Security
 
 mindset:
@@ -155,6 +189,7 @@ mindset:
 ╠══════════════════════════╣
 ║ 🟢 Bug Hunting           ║
 ║ 🟢 Security Research     ║
+║ 🟢 Tool Development      ║
 ║ 🟢 Automation Building   ║
 ║ 🟢 Continuous Learning   ║
 ╚══════════════════════════╝
