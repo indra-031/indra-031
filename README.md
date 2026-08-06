@@ -1,204 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001b33,100:000000&height=230&section=header&text=INDRA&fontSize=95&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001b33,100:000000&height=220&section=header&text=INDRA&fontSize=90&fontColor=00FFFF&animation=fadeIn"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=800&lines=%F0%9F%95%B7%EF%B8%8F+Bug+Hunter;%F0%9F%9B%A1%EF%B8%8F+Security+Researcher;%F0%9F%8C%90+Application+Security;%F0%9F%92%80+Offensive+Security;%F0%9F%94%A5+Security+Automation;%F0%9F%A7%A0+Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=🕷️+Bug+Hunter;🛡️+Security+Researcher;💀+Offensive+Security;⚡+Security+Automation"/>
 
 </div>
 
 
-<br>
+## 🩸 `whoami`
 
+    root@indra:~$ whoami
 
-# 🩸 `whoami`
-
-```bash
-root@indra:~$ whoami
-
-[+] Name     : Arshia
-[+] Alias    : INDRA
-[+] Role     : Bug Hunter
-[+] Focus    : Application Security
-[+] Platform : Linux
-[+] Status   : Hunting Vulnerabilities
-```
+    [+] Alias  : INDRA
+    [+] Role   : Bug Hunter
+    [+] Focus  : Application Security
+    [+] OS     : Linux
+    [+] Status : Hunting Vulnerabilities
 
 
 ---
 
-# 🕷️ About Me
+## 🕷️ About Me
 
-I explore vulnerabilities, analyze applications and build automation for security research.
+Security researcher focused on finding vulnerabilities, analyzing applications and building security automation.
 
-Focused on discovering security flaws, understanding attack surfaces and improving modern application security.
-
-
-```text
-⚔ Web Application Security
-
-⚔ Bug Bounty Hunting
-
-⚔ API Security
-
-⚔ Vulnerability Research
-
-⚔ Recon Automation
-
-⚔ Open Source Security
-
-⚔ Mobile Application Security
-```
+    ⚔ Web Security
+    ⚔ Bug Bounty
+    ⚔ API Security
+    ⚔ Reconnaissance
+    ⚔ Vulnerability Research
 
 
 ---
 
-# 🧠 Skills & Technologies
+## 🧠 Skills
 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,sql,bash,linux,docker,git,vscode,unity&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,docker,git,linux,bash,vscode&theme=dark"/>
 
 </div>
 
 
-## 💻 Development
+    Languages:
+    Python • JavaScript • C# • SQL • Bash
 
-```yaml
-Languages:
-  - Python
-  - JavaScript
-  - C#
-  - SQL
-  - HTML
-  - CSS
-  - Bash
+    Security:
+    OWASP • Web Pentesting • API Security
+    Authentication • Authorization • Recon
 
-Development:
-  - REST APIs
-  - Automation Scripts
-  - Web Development
-  - Unity Development
-  - Git Workflow
-```
+    Tools:
+    Burp Suite • Nmap • Nuclei
+    Subfinder • Amass • FFUF • Httpx
 
 
 ---
 
-## 🛡️ Security Research
+## ⚡ Current Mission
 
-```yaml
-Web Security:
-  - OWASP Top 10
-  - Authentication Testing
-  - Authorization Testing
-  - Business Logic Testing
-  - API Security
-  - HTTP Analysis
+    focus:
+      - Bug Hunting
+      - Security Research
+      - Automation
 
-Recon:
-  - Subdomain Enumeration
-  - Attack Surface Discovery
-  - Asset Intelligence
-  - OSINT
-
-Pentesting:
-  - Web Pentesting
-  - Mobile Security
-  - Vulnerability Assessment
-  - Security Automation
-```
+    mindset:
+      - Break
+      - Analyze
+      - Secure
 
 
 ---
 
-## ⚔️ Security Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,python&theme=dark"/>
-
-</div>
+## 📡 System Status
 
 
-```text
-🔹 Burp Suite
-
-🔹 Nmap
-
-🔹 Nuclei
-
-🔹 Subfinder
-
-🔹 Amass
-
-🔹 Httpx
-
-🔹 FFUF
-
-🔹 Katana
-
-🔹 Assetfinder
-
-🔹 Waybackurls
-
-🔹 GAU
-
-🔹 Frida
-
-🔹 JADX
-
-🔹 APKTool
-```
+    ╔════════════════════╗
+    ║   SYSTEM ONLINE    ║
+    ╠════════════════════╣
+    ║ 🟢 Hunting Bugs    ║
+    ║ 🟢 Researching     ║
+    ║ 🟢 Building Tools  ║
+    ╚════════════════════╝
 
 
 ---
 
-# ⚡ Current Operation
-
-
-```yaml
-mission:
-  - Find Vulnerabilities
-  - Build Security Tools
-  - Automate Security Workflows
-
-focus:
-  - Web Exploitation
-  - API Security
-  - Mobile Security
-  - Offensive Security
-
-mindset:
-  - Break
-  - Analyze
-  - Secure
-```
-
-
----
-
-# 📡 System Status
-
-
-```
-╔══════════════════════════╗
-║       SYSTEM ONLINE      ║
-╠══════════════════════════╣
-║ 🟢 Bug Hunting           ║
-║ 🟢 Security Research     ║
-║ 🟢 Tool Development      ║
-║ 🟢 Automation Building   ║
-║ 🟢 Continuous Learning   ║
-╚══════════════════════════╝
-```
-
-
----
-
-# 🐍 Contribution Activity
+## 🐍 Contribution
 
 
 <div align="center">
@@ -210,36 +98,16 @@ mindset:
 
 ---
 
-# 🌐 Connect
-
-
 <div align="center">
-
-
-<a href="https://github.com/indra-031">
-<img src="https://img.shields.io/badge/GitHub-INDRA-black?style=for-the-badge&logo=github"/>
-</a>
-
 
 <img src="https://img.shields.io/badge/Focus-Security%20Research-00FFFF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Status-Hunting%20Bugs-red?style=for-the-badge"/>
 
+<br><br>
+
+    ⚡ HACK • AUTOMATE • SECURE ⚡
 
 </div>
 
 
----
-
-<div align="center">
-
-```
-01001000 01000001 01000011 01001011
-
-⚡ HACK • AUTOMATE • SECURE ⚡
-```
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001b33&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001b33,100:000000&height=100&section=footer"/>
